@@ -1,0 +1,24 @@
+[submodule "client/vendors/bootstrap"]
+	path = client/vendors/bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "client/vendors/seajs"]
+	path = client/vendors/seajs
+	url = git://github.com/seajs/seajs.git
+[submodule "client/vendors/zepto"]
+	path = client/vendors/zepto
+	url = git://github.com/madrobby/zepto.git
+[submodule "client/vendors/cssmixins"]
+	path = client/vendors/cssmixins
+	url = git://github.com/MatthewWagerfield/cssmixins.git
+[submodule "client/vendors/backbone"]
+	path = client/vendors/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "client/vendors/coffee"]
+	path = client/vendors/coffee
+	url = git://github.com/jashkenas/coffee-script.git
+[submodule "client/vendors/less"]
+	path = client/vendors/less
+	url = git://github.com/cloudhead/less.js.git
+[submodule "client/vendors/animate.css"]
+	path = client/vendors/animate.css
+	url = git://github.com/daneden/animate.css.git
