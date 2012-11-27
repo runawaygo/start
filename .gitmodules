@@ -22,3 +22,6 @@
 [submodule "client/vendors/animate.css"]
 	path = client/vendors/animate.css
 	url = git://github.com/daneden/animate.css.git
+[submodule "client/vendors/iscroll"]
+	path = client/vendors/iscroll
+	url = git://github.com/cubiq/iscroll.git
