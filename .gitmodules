@@ -25,3 +25,6 @@
 [submodule "client/vendors/iscroll"]
 	path = client/vendors/iscroll
 	url = git://github.com/cubiq/iscroll.git
+[submodule "client/vendors/swipeview"]
+	path = client/vendors/swipeview
+	url = git://github.com/cubiq/SwipeView.git
