@@ -28,6 +28,9 @@
 [submodule "client/vendors/swipeview"]
 	path = client/vendors/swipeview
 	url = git://github.com/cubiq/SwipeView.git
-[submodule "client/venders/jquery"]
-	path = client/venders/jquery
+[submodule "client/vendors/jquery"]
+	path = client/vendors/jquery
 	url = git://github.com/jquery/jquery.git
+[submodule "client/vendors/bootswatch"]
+	path = client/vendors/bootswatch
+	url = git://github.com/thomaspark/bootswatch.git
