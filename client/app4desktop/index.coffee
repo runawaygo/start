@@ -4,6 +4,5 @@ config =
 
 seajs.config config
 
-define (require)->
-	console.log('seajs start')
-	require('app.js')
+console.log('seajs start')
+seajs.use('app')
